@@ -18,7 +18,6 @@ The website is built with a clean dark UI, smooth navigation and a focus on visu
 - HTML
 - CSS
 - JavaScript (Vanilla)
-- 
 ## Preview
 You can open the project locally by simply opening `index.html` in your browser.
 
